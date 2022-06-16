@@ -1,0 +1,1 @@
+const { range, RangeObject } = require("./src/range");
