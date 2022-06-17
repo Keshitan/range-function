@@ -20,7 +20,9 @@ R = R[::-1]
 # -> range(8, 0, -2)
 ```
 
-In Node.js, there is no range function like in Python. So many people will substitute Array. But its behavior will annoy us.
+In Node.js, there is no range function like in Python. So many people will substitute Array. 
+<br>
+But its behavior will annoy us.
 ```Node
 // in Node.js (before)
 
